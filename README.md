@@ -26,20 +26,3 @@ You will also see any lint errors in the console.
 Sample email : sk123@gmail.com
 Sample password : sk123456
 
-## Screenshots
-
-Home
-
-![Screenshot](screenshots/Home.png)
-
-Signup
-
-![Screenshot](screenshots/Signup.png)
-
-Login
-
-![Screenshot](screenshots/Login.png)
-
-Dashboard
-
-![Screenshot](screenshots/Dashboard.png)
