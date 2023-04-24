@@ -21,4 +21,25 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## For login
 
+Sample email : sk123@gmail.com
+Sample password : sk123456
+
+## Screenshots
+
+Home
+
+![Screenshot](screenshots/Home.png)
+
+Signup
+
+![Screenshot](screenshots/Signup.png)
+
+Login
+
+![Screenshot](screenshots/Login.png)
+
+Dashboard
+
+![Screenshot](screenshots/Dashboard.png)
